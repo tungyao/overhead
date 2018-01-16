@@ -19,9 +19,6 @@
 </div>
 ```
 * 在末尾声明函数
-`<script>
-     $('.overhead').overhead()
-</script>
-`
+`<script>$('.overhead').overhead()</script>`
 ## 贡献者
 * Tung Yao
